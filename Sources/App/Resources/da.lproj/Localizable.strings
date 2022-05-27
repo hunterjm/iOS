@@ -203,6 +203,9 @@ Tags vil virke på enhver enhed med Home Assistant installeret som har hardwareu
 "onboarding.connection_error.title" = "Kunne ikke oprette forbindelse";
 "onboarding.connection_test_result.authentication_unsupported.description" = "Autentificeringstype understøttes ikke %@.";
 "onboarding.connection_test_result.basic_auth.description" = "HTTP Basic-autentificering understøttes ikke.";
+"onboarding.connection_test_result.certificate_error.action_dont_trust" = "Don't Trust";
+"onboarding.connection_test_result.certificate_error.action_trust" = "Trust Certificate";
+"onboarding.connection_test_result.certificate_error.title" = "Failed to connect securely";
 "onboarding.connection_test_result.client_certificate.description" = "Klientcertifikatgodkendelse understøttes ikke.";
 "onboarding.connection_test_result.error_code" = "Fejlkode:";
 "onboarding.connection_test_result.local_network_permission.description" = "Privatlivstilladelse til \"Local Network\" kan være blevet nægtet. Du kan ændre dette under Systemindstillinger.";
